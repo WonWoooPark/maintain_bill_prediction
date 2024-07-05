@@ -45,6 +45,9 @@
 - RandomForest 알고리즘을 활용한 회귀 모형 모델
 - 1차 예측 후 이상치 제거 추가로 진행 후 2차 예측
 
+### - **Streamlit 서비스 모형**
+<img src="interface.png" alt="스트림릿" width="600"/>
+
 <br/>
 
 <br/>
